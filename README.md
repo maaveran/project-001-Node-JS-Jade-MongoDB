@@ -1,2 +1,4 @@
-# project-001-Node-JS-Jade-MongoDB
-my first commit project to github
+This project design for learning NodeJS Jade MonggoDB
+
+#####################################
+update at 2 January 2017
