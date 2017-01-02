@@ -1,0 +1,24 @@
+{
+  "name": "maavlabs",
+  "version": "1.0.0",
+  "description": "maav labs",
+  "main": "index.js",
+  "scripts": {
+    "test": " hotnode index.js"
+  },
+  "keywords": [
+    "maavlabs",
+    "nodejs",
+    "server"
+  ],
+  "author": "maaveran",
+  "license": "MIT",
+  "dependencies": {
+    "cradle": "^0.7.1",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^7.2.1",
+    "nib": "^1.1.2",
+    "stylus": "^0.54.5"
+  }
+}
